@@ -1,0 +1,16 @@
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\bin\Debug\net5.0\Banking Assignment 1.exe
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\bin\Debug\net5.0\Banking Assignment 1.deps.json
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\bin\Debug\net5.0\Banking Assignment 1.runtimeconfig.json
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\bin\Debug\net5.0\Banking Assignment 1.runtimeconfig.dev.json
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\bin\Debug\net5.0\Banking Assignment 1.dll
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\bin\Debug\net5.0\ref\Banking Assignment 1.dll
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\bin\Debug\net5.0\Banking Assignment 1.pdb
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\obj\Debug\net5.0\Banking Assignment 1.csproj.AssemblyReference.cache
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\obj\Debug\net5.0\Banking Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\obj\Debug\net5.0\Banking Assignment 1.AssemblyInfoInputs.cache
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\obj\Debug\net5.0\Banking Assignment 1.AssemblyInfo.cs
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\obj\Debug\net5.0\Banking Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\obj\Debug\net5.0\Banking Assignment 1.dll
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\obj\Debug\net5.0\ref\Banking Assignment 1.dll
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\obj\Debug\net5.0\Banking Assignment 1.pdb
+C:\Users\Richard\Desktop\.NET\ASS 1\Banking Assignment 1\Banking Assignment 1\obj\Debug\net5.0\Banking Assignment 1.genruntimeconfig.cache

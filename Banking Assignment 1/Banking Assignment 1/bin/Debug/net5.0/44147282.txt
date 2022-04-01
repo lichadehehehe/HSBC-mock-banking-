@@ -1,0 +1,9 @@
+First Name|jaiwepf
+Last Name|ajwieofp
+Address|ajweifop
+Phone|0415157593
+Email|chuanxu.richard.wang@gmail.com
+AccountNo|44147282
+Balance|1769
+2021.9.13|Deposit|1782|1782
+2021.9.13|Withdraw|13|1769

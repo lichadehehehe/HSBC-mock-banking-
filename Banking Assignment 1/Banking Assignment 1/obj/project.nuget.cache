@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zawOPuIE6wrowLQsK13kmAKkW7UJ+OAJKhC9dpeUDDxVCiB5LCqvahrPSRq20F0M++7fMbGsRoqDRX/N94/E2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chuan\\Desktop\\Banking-Assignment-1 Chuanxu WANG 12426894\\Banking Assignment 1\\Banking Assignment 1\\Banking Assignment 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chuan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\chuan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\chuan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\chuan\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

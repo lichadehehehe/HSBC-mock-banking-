@@ -1,0 +1,15 @@
+First Name|fajiowep
+Last Name|jaiwoepf
+Address|jaioewpf
+Phone|0415157593
+Email|chuanxu.richard.wang@gmail.com
+AccountNo|29919716
+Balance|88
+2021.9.12|Deposit|53|54.5
+2021.9.12|Deposit|54.5|56
+2021.9.12|Deposit|56|106
+2021.9.12|Withdraw|100.5|5.5
+2021.9.12|Withdraw|5.0|0.5
+2021.9.12|Deposit|100|100.5
+2021.9.13|Withdraw|0.5|100
+2021.9.13|Withdraw|12|88
